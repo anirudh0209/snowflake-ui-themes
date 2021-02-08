@@ -84,7 +84,7 @@ http://ethanschoonover.com/solarized/img/solarized-palette.png
     color: #839496;
     background-color: #002b36;
     text-shadow: #002b36 0 1px;
-    font-size: 18px;
+    font-size: 15px;
     font-family: 'Inconsolata','Menlo';
 }
 
@@ -101,7 +101,7 @@ http://ethanschoonover.com/solarized/img/solarized-palette.png
 }
 
 .cm-keyword {
-    color: #cb4b16;
+    color: #3399ff;
 }
 
 .cm-atom {
